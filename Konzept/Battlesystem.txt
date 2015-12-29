@@ -1,0 +1,14 @@
+Kommandos:
+
+Feste Kombi für das Verteidigen
+
+Tastenreihenfolge wird nach und nach angezeigt (8 Stück (?)) und man muss die Tasten auf den Beats treffen
+
+Die Tastenreihenfolge ist immer zufällig und welcher Skill ausgelöst wird ist auch zufällig bestimmt
+
+Wenn man nur einen Bruchteil der Kombo trifft, dann macht man auch nur einen Bruchteil des Schadens ohne Element  
+(5/8 Tasten getroffen -> 5/8 des Skillschadens ohne Elementbonus)
+
+Kampf gegen normale Monster -> Spieler und Monster greifen gleichzeitig an (mehr Spielfluss)
+
+Kampf gegen Bosse -> Rundenbasiert
