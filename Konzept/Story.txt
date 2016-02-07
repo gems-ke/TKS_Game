@@ -5,7 +5,8 @@ In den nächsten 20 Jahren war Ihre Technologie schon so ausgereift, sodass Sie s
 Denken und Handeln konnten. Die Erde teilte sich langsam in zwei Rassen auf, da das Bevölkerungswachstum
 um die 150% betrug, da viele mechanisierte Einheiten gebaut wurden. Sie trugen zudem auch viel zur Wirtschaft bei.
 Diese beiden Rassen / Fraktionen teilten sich nun die Rohstoffe und versuchten, die Erde immer weiter zu bringen,
-da der technologische Fortschritt nie aufhören sollte. Die letzte Errungenschaft, die im Jahre 2161 erfunden wurde, trägt den Namen "Taktrythmussensibilität". Diese Forschung erlaubt es uns, alles durch unseren Gehörsinn zu steuern. Medien, Mechanik und sogar die Sensorik. Wir standen kurz vor einer Revolution, doch dann geschah etwas außergewöhnliches. 
+da der technologische Fortschritt nie aufhören sollte. 
+Die letzte Errungenschaft, die im Jahre 2161 erfunden wurde, trägt den Namen "Taktrythmussensibilität". Diese Forschung erlaubt es uns, alles durch unseren Gehörsinn zu steuern. Medien, Mechanik und sogar die Sensorik. Wir standen kurz vor einer Revolution, doch dann geschah etwas außergewöhnliches. 
 Während der Testphasen des TRS-Modul's wurde die Erde in einen schweren Vorfall verwickelt, der diesen kurz vor den Untergang zerrte. Eine Invasion unbekannten Ausmaßes brach durch die Schallmauer ein und drohte ganze Länder auszulöschen. Die Erdfraktion und die unbekannte Fraktion stand sich in diesem Konflikt gegenüber. Sie waren ganz klar in der Überzahl, deshalb mussten wir uns dem Vorhaben der feindlichen Rasse erst einmal beugen.
 Ihr Vorschlag war, dass Sie 80% der Rohstoffe des Planeten erhalten, sowie unseren technologischen Fortschritt, doch bevor dieser Vertrag unterschrieben worden war, wurde der große Anführer der Feinde ausgelöscht.
 Der Wissernschaftler des TRS_Modul's hatte die sensationelle Idee, diesen Chip in Luftgesteuerte Waffen einzupflegen, die dann auf Schallbasis skalieren und feuern sollte. Dies war ein großer Rückschlag für die Feinde, denn wir kannten nun Ihre Schwäche: Schallwellen.
@@ -14,6 +15,8 @@ Dieser Tag ging in die Geschichte ein. Der 13.04.2162. Der Tag der revolutionäre
 Die Mech's bauten diese TRS-Waffen, auch Schallwerfer genannt. Die Menschen forschten weiter an der Effektivität dieser Waffen und die Außerirdischen versehen dann diese Waffen mit Bassrythmen, sodass diese Waffe mehr WubWub bekommt.
 Durch einen Zwischenfall 2167 wurden verfälschte TRS-Waffen eingeschleust und sorgte so für einen ungemütlichen Tumult, der für einen heftigen Krieg zwischen den drei Fraktionen sorgte. Der Krieg hielt 7 Jahre an.
 Im Jahre 2174 beschloss der Mecha VGW932W, dass es keinen Sinn machen würde, TRS für so etwas grausames einzusetzen. Der Beschluss der neu definierten Organisation "Das Institut der drei Fraktionen" sagte aus, dass nie wieder Krieg herrschen sollte, sondern dass alles mit Einfluss des TRS geregelt werden sollte, da dies das mächtigste Werkzeug im 22. Jahrhundert darstellt.  
+
+------------------------> Protagonist als Testperson für TRS Waffen
 
 Nach dem Krieg zwischen den 3 Fraktionen, wurde der Grundstein eines solideren Bündnisses eingerichtet.
 Manche Wissenschaftler der biologischen Rasse forschten weiter an den Rythmuswaffen,
@@ -37,3 +40,11 @@ Ein Attentat auf das Institut der drei Fraktionen sorgte dafür, dass der AB[M]/H
 Er ist sehr schnell unterwegs und kaum aufzuhalten...
 
 cards
+
+
+Im Jahre 2133 wurden superintelligente Roboter erschaffen, die viele Arbeiten der Menschen abnehmen sollten.
+Durch Ihre hohe Intelligenz waren Sie Ihnen weit überlegen, daher teilte sich die Erde in zwei Rassen auf: Menschen und Mech's, dadurch wurden die Mech's menschenunabhängig.
+Die letzte große Errungenschaft kam im Jahre 2161 zutage: Die Taktrythmussensibilität, kurz TRS.
+Diese Forschung erlaubte es Ihnen, alles durch Ihren Gehörsinn zu steuern.
+Während der Testphasen des TRS-Modul's verwickelte sich die Erde in einen orbitalen Krieg gegen eine unbekannte, feindliche Rasse. Die Feinde waren ganz klar in der Überzahl, dennoch ließ sich die Erdfraktion nicht auf einen Handel ein. Es drohte
+der größte Krieg der Menschheit.

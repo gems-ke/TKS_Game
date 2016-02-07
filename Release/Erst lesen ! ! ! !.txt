@@ -1,0 +1,6 @@
+Man sollte das aktuelle Projekt jederzeit aus dem git Stash aus starten können.
+Wenn es Probleme geben sollte, meldet euch bei mir via Mail, Skype oder Whatsapp.
+
+#### Version 0.0.13a | 08.02.2016 ####
+- first ui version w/ options and start button
+- only test mode for start => 120 bpm default 
