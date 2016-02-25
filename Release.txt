@@ -1,0 +1,22 @@
+
+Aktueller Downloadlink ---> Kommt
+Neueste Version: 0.0.15a 
+
+
+<----- Patchnotes ----->
+#### Version 0.0.15a | 22.02.2016 ####
+-new icon in main menu
+-new scene: overview menu 
+-dynamic textboxes for each level
+-choose a level and play the fight scene (still alpha)
+-this version is without the exploration alpha scene
+
+#### Version 0.0.13a | 08.02.2016 ####
+- first ui version w/ options and start button
+- only test mode for start => 120 bpm default 
+<----- ----- ----- ----->
+
+
+---> Könnten später für das DevTeam sein:
+---> https://twitter.com/RORA_Kevin
+---> https://about.me/kevingems

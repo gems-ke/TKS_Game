@@ -1,0 +1,4 @@
+- Rasse (Mensch, Alien, Droide)
+- Klasse (?)
+- Aussehen 
+- Ersten Begleiter Aussuchen
