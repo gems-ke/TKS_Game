@@ -48,3 +48,17 @@ Die letzte große Errungenschaft kam im Jahre 2161 zutage: Die Taktrythmussensibi
 Diese Forschung erlaubte es Ihnen, alles durch Ihren Gehörsinn zu steuern.
 Während der Testphasen des TRS-Modul's verwickelte sich die Erde in einen orbitalen Krieg gegen eine unbekannte, feindliche Rasse. Die Feinde waren ganz klar in der Überzahl, dennoch ließ sich die Erdfraktion nicht auf einen Handel ein. Es drohte
 der größte Krieg der Menschheit.
+
+
+
+
+
+
+
+
+
+
+
+Man wird im ersten Kampf fertig gemacht (Kampfbildschirm), wacht auf und muss die Waffe finden (Jump 'n Run). Dann ver-
+prügelt man den Stein (Kampf 2). Er rennt weg und man muss ihm hinterher (Jump'n Run 2). Man trifft seinen großen Bruder
+-> Bosskampf (Kampf 3).

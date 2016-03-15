@@ -1,0 +1,26 @@
+Levelauswahl:
+
+- Einstellungen, Beenden
+
+- Companion Screen
+
+- Charakter Screen
+
+- Inventar
+
+- Stadtstatus
+
+
+Stageauswahl:
+
+- Infos
+
+
+Kampf:
+
+- HUD
+
+
+Jump 'n Run:
+
+- Kugeln/Actives

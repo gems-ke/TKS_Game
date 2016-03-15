@@ -12,3 +12,32 @@ Wenn man nur einen Bruchteil der Kombo trifft, dann macht man auch nur einen Bru
 Kampf gegen normale Monster -> Spieler und Monster greifen gleichzeitig an (mehr Spielfluss)
 
 Kampf gegen Bosse -> Rundenbasiert
+
+
+
+Zufällige Chance einen Weisen zu treffen und wenn man ihn besiegt gutes Zeugs zu kriegen
+
+
+
+Schaden:
+- Grundschaden
+- Typschaden (A,B,M)
+
+
+Skills
+- Aktiv
+- Passiv
+
+
+Krits
+
+
+Companions:
+- Passives
+- Ulti
+
+
+Leben/Verteidigung
+
+
+Statusveränderungen
