@@ -1,2 +1,14 @@
 Exploration
 
+Metroidvania
+
+Aufzufindendes: 
+DNA (Charakterupgrade)
+Chips (Companionupgrades)
+Kisten mit Ausrüstung
+NPCs
+
+Zufällige Chance bestimmte NPCs zu treffen (die sind unabhängig voneinander), die einem Helfen und in seine Stadt ziehen 
+(z.B. Schmied) (möglicherweise Chance erhöhen je weiter man kommt oder je höher die Stats sind)
+Oder
+Man muss eine Voraussetzung erfüllen (Quest)
