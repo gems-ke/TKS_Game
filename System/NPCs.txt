@@ -1,0 +1,13 @@
+- NPCs, mit denen man handeln kann
+	(Schwarzhändler -> Chips gegen DNA tauschen und vice versa)
+	(Temporärboni)
+	(Skillpunkte zurücksetzen)
+
+- Quest-NPCs
+
+- Info-NPCs
+	(NPCs, die über die Welt Infos geben)
+	(NPCs, die unnützes Zeugs erzählen)
+
+- Cutscene-NPCS
+	(Standart halt)

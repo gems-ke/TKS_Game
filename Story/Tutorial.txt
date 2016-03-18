@@ -1,0 +1,21 @@
+1. Kampf:
+	Man will zum Labor, um seine Waffe abzuholen. Kampf gegen einen Stein (ein entlaufenes Experiment) vor dem Labor, 
+	den man verliert ;_;
+
+
+2. Exploration:
+	Man wacht auf, und findet DNA und am Ende des Levels die Waffe. Der Wissenschaftler am Anfang sagt:
+	"Steine sind normalerweise friedlicher Natur"
+
+- Im Menü werden dann DNA erklärt -
+
+3. Kampf 2:
+	Man besiegt den Stein.
+
+4. Exploration 2:
+	Man geht raus und sucht nach dem Stein. Man findet seinen Companion und einen Händler, der einem Chips erklärt.
+
+- Im Menü werden einem Dann mehr Infos zum Companion (Upgraden) gegeben -
+
+5. Kampf 3:
+	Man kämpft gegen den großen Bruder des Steins (Bosskampf)
