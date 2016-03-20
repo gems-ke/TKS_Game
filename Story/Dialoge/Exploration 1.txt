@@ -1,0 +1,43 @@
+Wissenschaftler:
+
+Wissenschaftler:
+Bist du derjenige, der die TRS-Waffe abholen sollte?
+Tut mir leid, aber wie du siehst, ist das Labor komplett verwüstet worden.
+Eines unserer Testobjekte ist entlaufen und hat auf seinem Weg unsere Apparaturen zerstört.
+
+Chara:
+Meinst du etwa den verkabelten Stein?
+
+Wissenschaftler:
+Oh, du hast ihn schon getroffen?
+Normalerweise sind Steine ja von Natur aus friedlich, aber es scheint, als hätten sich die Experimente negativ auf ihn ausgewirkt.
+Hoffentlich ist der Waffe nur nichts passiert.
+Der Leiter würde mich umbringen, wenn er erfahren würde, dass ein so teures Objekt zerstört wurde!
+Kannst du bitte nachschauen, ob die TRS-Waffe noch funktionsfähig ist?
+Sie sollte am Ende des Ganges sein, wenn sie nicht in tausend Stücke zersprengt wurde.
+
+
+Wiederholendes ansprechen:
+Oh Gott. Wieso musste das ausgerechnet heute passieren...
+
+
+Scientist:
+Are you ze one, who vas supposed to pick up ze TRS-Waffe?
+I am very sorry, but as you can see, ze laboratory is totally destroyed.
+One of our experiments has escaped and demolished our apparatuses on it's way out.
+
+Chara:
+Are you talking about the wired stone?
+
+Scientist:
+Ja! So you've already met him.
+Usually stones are inherently peaceful but it seems like ze experiments had a negative effect on it.
+I hope ze weapon wasn't broken.
+My Füh- Ähh, supervisor would kill me if he vere to find out zat such an expensive object has been destroyed.
+Could you take a look to make sure that ze TRS-Waffe is still intact, bitte?
+It should be at the end of zis hall, if it hasn't scattered in a sousand bits and pieces.
+
+
+If spoken too multiple times:
+Oh mein God. Why did zis have to happen today...
+______________________________________________________________________________________________________________________________________
