@@ -1,6 +1,7 @@
 Kommandos:
 
-Feste Kombi für das Verteidigen
+Feste (Kombi/)Taste für das Verteidigen
+Wenn man verteidigt, wird die Kombi unterbrochen, aber man nimmt prozentual weniger Schaden.
 
 Tastenreihenfolge wird nach und nach angezeigt (8 Stück (?)) und man muss die Tasten auf den Beats treffen
 
@@ -13,6 +14,7 @@ Kampf gegen normale Monster -> Spieler und Monster greifen gleichzeitig an (mehr
 
 Kampf gegen Bosse -> Rundenbasiert
 
+Der Gegner greift immer nach einer bestimmten Zeit an (eine Anzeige lädt sich im Takt auf).
 
 
 Zufällige Chance einen Weisen zu treffen und wenn man ihn besiegt gutes Zeugs zu kriegen
