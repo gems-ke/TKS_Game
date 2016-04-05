@@ -1,6 +1,6 @@
 Bio:
 Menschen
-HP
+Angriff
 
 Mecha:
 Roboter
@@ -8,4 +8,4 @@ Verteidigung
 
 Alien:
 Aliens
-Angriff
+Leben

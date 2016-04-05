@@ -24,3 +24,12 @@ Kampf:
 Jump 'n Run:
 
 - Kugeln/Actives
+
+
+Einstellungen:
+
+- Musiklautstärke
+
+- SFX Lautstärke
+
+- Tasteneinstellungen

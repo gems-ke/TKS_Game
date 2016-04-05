@@ -1,6 +1,6 @@
 Kommandos:
 
-Feste (Kombi/)Taste für das Verteidigen
+Man verteidigt, wenn man keine Taste drückt.
 Wenn man verteidigt, wird die Kombi unterbrochen, aber man nimmt prozentual weniger Schaden.
 
 Tastenreihenfolge wird nach und nach angezeigt (8 Stück (?)) und man muss die Tasten auf den Beats treffen

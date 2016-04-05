@@ -1,0 +1,3 @@
+Kosten für Baum leveln: Entweder jedes mal 1 oder jedes Mal 1 mehr nach jedem Skillen.
+
+Anzahl der Skills, die man skillen kann: Man kriegt nicht genug Skillpoints um alle Skills voll zu leveln.
