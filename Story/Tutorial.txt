@@ -1,6 +1,6 @@
 1. Kampf:
 	Man will zum Labor, um seine Waffe abzuholen. Kampf gegen einen Stein (ein entlaufenes Experiment) vor dem Labor, 
-	den man verliert ;_;
+	gegen den man verliert ;_;
 
 
 2. Exploration:

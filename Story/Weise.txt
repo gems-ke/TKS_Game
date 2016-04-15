@@ -1,0 +1,54 @@
+Die Weisen Sh'ellan wurden von der gesamten Erdfraktion verstoßen, da Sie
+behaupteten,  die Zukunft der Erde und sogar der gesamten Galaxier in Ihrer
+Hand zu haben. 
+
+Ihr Merkmal: Masken und Umhänge 
+
+Der schwächte von Ihnen, Viser (Lila/Grau) bekam die Kraft der Verbindungen. Er konnte
+aus allem Möglichen ein zufälliges Material erschaffen, welches die Verbindung der
+Welt zeigen sollte. Er war das Zeichen der Hoffnung und des Anfangs.
+Der zweite der Weisen, Nader (Rot/Orange), lernte die Kraft der Scherben. Dadurch
+konnte er Kleinteile um sich herum schweben lassen und Sie wie einen Schild anordnen.
+Dies geschieht durch Manipulation mit der Maske. Es war das Zeichen des Schutzes.
+Der stärkste der drei, Skaug (Lila/Blau) bekam die Kraft der Reinkarnation. Er
+war auch der jüngste der Weisen und konnte gut mit seiner Geisteskraft umgehen.
+Er war das Zeichen des Verlustes.
+
+Niemand weiß, wo Sie sich aufhalten und ob Sie überhaupt noch leben. Das Alter
+der Sh'ellan ist ebenfalls unbekannt. Sind Sie denn menschlich ? Außerirdisch? Oder
+etwas völlig anderes? Ihre Existenz wurde nach dem Ende des Krieges bewiesen, da Skaug sich inmitten
+des Schlachtfeldes befand, bevor der ehemalige Anführer der Außerirdischen starb. Man
+geht der Vermutung nach, dass die Sh'ellan etwas zum interstellaren Frieden beigetragen
+haben könnten.
+
+---UPDATE---
+Sie erscheinen ab AKT1 zufällig an Grindkämpfen.
+Wahrscheinlichkeiten: Viser (7%), Nader (5%), Skaug (3%).
+Man wird Ihren Geschichten lauschen, danach kommt es zum epischen Kampf.
+(Man erfährt nur aus Vermutungen etwas über die Weisen vorher).
+Jeder Weise droppt nach dem Kampf ein Artefakt, welches beim Schmied eingesehen werden
+kann. 
+Artefakte bieten: Waffen (Viser), Rüstungen (Nader), Begleiter (Skaug)
+Nach dem Kampf gegen einen der Weisen gibt es unter anderem noch einen Erfolg und DNS Punkte.
+Hat man alle 3 Artefakte aufbewahrt, bekommt man den letzten Erfolg: "Der vierte Weise".
+
+Viser-Kampf: Der einfachste Kampf. Er hat die meiste HP, aber die wenigste DEF und ATK von allen.
+Der Kampf könnte sich nur etwas in die Länge ziehen, wäre aber sogar am Anfang machbar.
+Er ist ein mittelschneller Angreifer (8 Ticks ?), teilt aber Wenig Schaden aus.
+Seine beiden Passiven: Immunität gegen Humanschaden, Angriffblocker der Schaden über 10% seiner Max.HP blockt.
+Drop: 1 DNS-Punkt, Viser-Artefakt, Errungenschaft: Viser
+(Die Weisen testen dich lediglich auf deine Stärke, sterben aber nach dem Kampf nicht, sondern fliehen)
+
+Nader-Kampf: Nader hat viel HP und DEF, aber umso weniger an ATK. Er ist ein schneller Angreifer (4 Ticks),
+mit wenig DMG Output. Man sollte diesen Kampf dennoch mit Vorsicht genießen, da er einer der stärksten Gegner
+im Spiel ist. 
+Seine beiden Passiven: Immunität gegen Mech-Schaden, Stärke steigt zu seiner verlorenen HP 1% HP = 1%+Stärke
+Drops: 2 DNS-Punkte, Nader-Artefakt, Errungenschaft: Nader
+
+Skaug-Kampf: Er ist überdurchschnittlich stark, womöglich der stärkste Gegner. Er hat sehr hohe
+ATK und DEF, aber mittelmäßige HP-Werte, man sollte ihn dennoch nicht unterschätzen. Er ist ein sehr langsamer
+Angreifer (16 Ticks?), aber prügelt ordentlich in den Charakter ein, wenn er ihn nicht schnell genug platt macht.
+Man kann froh sein, wenn man einen Schlag überlebt, da dies eine echte Prüfung darstellt.
+Seine Passiven: Immunität gegen Alienschaden, Regeneration alle 4 Ticks um 1% HP
+Drops: 3-DNS Punkte, Skaug-Artefakt, Errungenschaft: Skaug
+

@@ -13,3 +13,17 @@ Max Level ist 30
 Jeder Companion hat auch Skills
 
 Ab Level 30 kann man ihre Sockel ausfüllen
+
+
+
+Man hat einen Companion
+
+Er verändert sich je nachdem, wie man ihn skillt
+
+
+
+Man hat mehrere Companions, die man fusionieren kann
+
+Möglicherweise erst später im Spiel
+
+Defusionieren kann auch was sein

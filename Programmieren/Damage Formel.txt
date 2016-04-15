@@ -1,0 +1,4 @@
+
+(((rawDMG*bereich)*multiplicate)*100)+((alienDMG*10)+(mechDMG*10)+(bioDMG*10)) 
+* (MonsterDef/100)
+

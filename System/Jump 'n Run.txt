@@ -17,6 +17,7 @@ Man muss eine Voraussetzung erfüllen (Quest)
 
 Technik-Zeugs:
 - Man kann 1 Mal springen (Später bis zu 3 Mal)
+- Wandsprung schon am Anfang möglich
 (- Sprunghöhe variabel)
 
 
