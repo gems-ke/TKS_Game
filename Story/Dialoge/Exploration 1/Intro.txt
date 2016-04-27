@@ -9,7 +9,7 @@ Chara:
 Meinst du etwa den verkabelten Stein?
 
 Wissenschaftler:
-Oh, du hast ihn schon getroffen?
+Du hast ihn schon getroffen?
 Normalerweise sind Steine ja von Natur aus friedlich, aber es scheint, als hätten sich die Experimente negativ auf ihn ausgewirkt.
 Hoffentlich ist der Waffe nur nichts passiert.
 Der Leiter würde mich umbringen, wenn er erfahren würde, dass ein so teures Objekt zerstört wurde!
@@ -30,14 +30,14 @@ Chara:
 Are you talking about the wired stone?
 
 Scientist:
-Ja! So you've already met him.
+So you've already met him.
 Usually stones are inherently peaceful but it seems like ze experiments had a negative effect on it.
 I hope ze weapon wasn't broken.
 My Füh- Ähh, supervisor would kill me if he vere to find out zat such an expensive object has been destroyed.
-Could you take a look to make sure that ze TRS-Waffe is still intact, bitte?
+Could you take a look to make sure zat ze TRS-Waffe is still intact, bitte?
 It should be at the end of zis hall, if it hasn't scattered in a sousand bits and pieces.
 
 
-If spoken too multiple times:
+If spoken to multiple times:
 Oh mein God. Why did zis have to happen today...
 ______________________________________________________________________________________________________________________________________
