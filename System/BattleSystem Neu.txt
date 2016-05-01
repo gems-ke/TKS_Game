@@ -1,0 +1,37 @@
+Es gibt feste Kombos, die man drücken kann
+
+Diese neuen Kombos werden durch Skillen freigeschalten
+
+Default Tasten: Pfeiltasten
+
+Gegner greift an, sobald seine Kugelanzeige gefüllt ist
+(diese füllt sich pro Beat auf)
+
+
+
+Zufällige Chance einen Weisen zu treffen und wenn man ihn besiegt gutes Zeugs zu kriegen
+
+
+
+Schaden:
+- Grundschaden
+- Typschaden (A,B,M)
+
+
+Skills
+- Aktiv
+- Passiv
+
+
+Krits
+
+
+Companions:
+- Passives
+- Ulti
+
+
+Leben
+
+
+Statusveränderungen

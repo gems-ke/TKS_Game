@@ -39,7 +39,7 @@ Companions:
 - Ulti
 
 
-Leben/Verteidigung
+Leben
 
 
 Statusveränderungen

@@ -1,2 +1,5 @@
 Beispiel:
 Protagonist lebt unter der Brücke, sieht ne Werbung, die TRS-Waffentester anwirbt. Deswegen geht er hin.
+
+Er kriegt ein Teil/Fähigkeit, mit der er die Wellen für die Waffe erzeugt.
+
