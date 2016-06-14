@@ -1,0 +1,86 @@
+-Hintergrund-
+Sibum war einst eine mittelgroße Stadt im Gebirge, abgegrenzt von den anderen großen Städten, deshalb mussten Sie
+auf eine eigene Energieversorgung zugreifen. Im Laufe der Zeit haben sich die Tempozen, die in Sibum leben, zur
+Energiereichsten Kolonie entwickelt. Sie besitzen vereinzelt sogar die Kraft, die reine Energie zu manifestieren.
+Durch den Bau und Erhalt der Zenkugel in der Stadtmitte, ist die Stadt vor äußeren Angriffen ziemlich gut geschützt.
+
+-Charaktere-
+-Ensec: Der Wanderer Ensec ist ein vorerst freundlicher Geselle, der dem Protagonisten den Weg nach Sibum zeigt,
+nachdem er Ihm geholfen hat. Er möchte sich beim Protagonisten bedanken und lädt ihn auf eine Tour auf den höchsten
+Turm in Sibum ein. Er träumt schon immer davon, einmal das Innere der Zenkugel zu sehen, so versucht der Protagonist 
+Ihm zu helfen. Nachdem Sie in die Kugel eingedrungen sind, wird Ensec von unvorstellbarer, reiner Energiemacht
+zerrissen und verschwand. Kurz danach fällst du ihn Ohnmacht und wachst in der Stadtmitte auf, neben vielen Bewohnern.
+Die Energieversorgung scheint gekappt zu sein, von Ensec fehlt jede Spur.
+-Maou Damshilen Tempozen: Der Anführer der Tempozen findet sich unter Tage wieder, denn niemand darf wissen
+wo sich der Anführer aufhält. Er kommandiert unter anderem die Wachen, die mit Energiekugeln und Rüstungen
+ausgestattet sind, um Feinde aufzuhalten. Diese Krieger trifft man ebenfalls seltener an, da Sie eher außerhalb
+der Stadt tätig sind.
+-Gory: Der Energieschmied kümmert sich um die Begleitkugeln der Tempozen und dass Sie richtig funktionieren. Er hilft dem Protagonisten dabei, Ensec zu finden und schenkt einem daher den Begleiter GYBOT (Skill: Stasis). 
+-Kili Tempozen: Der Erbe der Tempozen, der die nächste Generation anführen soll. Er beherrscht die Kontrolle von gleichzeitig
+drei Begleitkugeln und kann durch die freigesetzte Energie schweben. Es fällt ihm allerdings schwer, diese Macht
+zu kontrollieren, da diese Energie unrein ist. Das ist sein einziges Manko. Sein Motto: Quantität vor Qualität.
+-Cyli: Die junge Forscherin überprüft täglich den Energiebedarf und -stand der Stadt Sibum. Sie hat eine neue
+Möglichkeit der Energieversorgung entdeckt und will Sie euch im Laufe des Arks zeigen. Man trifft erst später auf Sie und 
+dann auch nur kurz, gegen Ende des Arks könnte man dann die "skills" der begleiter freischalten durch dieses neue
+energieupgrade, dass dem zenmodul ähnelt, aber nur für begleiter bestimmt ist. Sie speichert die gesammelte
+Energie, statt sie umzuleiten und kann bei Bedarf den gesamten Speicher freigeben.
+
+Skills: Man lernt später im Skillbaum die Fähigkeit 'Transzendenz', angelehnt an die Tempozen
+
+-Die 3 Sh'ellan der Tempozen-
+Die drei Weisen Sh'ellan waren die einzigen, die diese Energie manifestieren konnten. Sie sind verschwunden und so auch
+das Geheimnis mit Ihnen, wie man die reine Energie nutzen kann. Man findet vereinzelt Informationen über
+die Weisen, wurden aber bisjetzt nur von einem kleinen Jungen angeblich gesichtet. 
+Das Zenmodul der Tempozen bestand damals aus den drei alten Relikten der Weisen und wurde durch
+die reine Energie zusammengeschweißt. Die Legende besagt, wenn man das Siegel der Weisen bricht, 
+wird man in einen Fluss der Energie gesogen, der einem den Tod kosten kann. Die Relikte werden dabei
+zerstört, ebenso das Zenmodul, dass die ganze Stadt aufrecht erhält. Deshalb versiegelten damals die Weisen
+dieses Modul in eine riesige, vor energie geschützer Kugel, die alle ankommenden Spannungen auf die Kugeln der 
+Bewohner ablenkt. 
+
+-Kämpfe-
+Ensec Tempozen Kampfablauf (Friedlicher Pfad, beim aggressive ist er einfacher)
+-Greift erstmalig alle 8 Ticks an. Bei <50% HP dann alle 4 Tick
+-Erster Schlag ist mit seinem mechanischen Arm. Ein physischer Angriff der einmalig viel normalen Schaden macht.
+-Jeder Zweite Schlag ist der Energiearm, der zur Klinge wird und dem Gegner Alienschaden zufügt (medium)
+-Bei <50% Leben wird zufällig einer der drei Skills ausgeführt:
+	- Energiewellenarm: Fügt großen Alienschaden zu, fügt sich selbst (WERT) schaden zu
+	- Selbstheilung: Heilt Ensec um 10% seiner Max. HP
+	- Kraft der Tempozen: Fügt dem Spieler 3x(WERT) Mechschaden zu
+
+
+-STORY-
+Der Spieler trifft den NPC Ensec, ein Bewohner der Stadt Sibum und ein Mitglied des Volkes
+der Tempozen. Sie sind bekannt für Ihre hohe Energiespeicherung und da der Spieler Ensec
+zu Hilfe kam (Erschöpfung), zeigt Ensec Ihm die Stadt. Ensec's Wunsch war es schon immer,
+einmal in das Innere des Zenkerns zu kommen, da er das Zenmodul der Weisen sehen wollte. 
+DAS Modul, dass die gesamte Stadt seit Jahrhunderten aufrecht hält. Da Ensec nicht mehr
+warten wollte, entschließt er sich mit dem Spieler zum Zenkern zu gehen, um einen Eingang
+zu finden. Es findet sich ein Eingang, doch bevor die Wachen Ensec aufhalten konnten, wurde
+er schon vor der massiven Energie zerrissen. Er verlor beide Arme und verschwand daraufhin
+spurlos. Dieses Geschehen wurde nicht an die große Glocke gehangen, somit wusste niemand, 
+was mit Ensec los war. Am anderen Morgen trifft der Spieler zufällig Cyli, eine
+Forscherin der Tempozen, die außerhalb der Stadt wohnt. Sie forscht an einer verbesserten
+Energieverwaltung und möchte dem Spieler Ihre Fortschritte zeigen. Auf dem Weg zu Ihrem
+Haus im Wald treffen Sie kurz den Roboter Deek, der durch die Energie des Ortes
+angetrieben wird. Deek ist scheu und verschwand sofort im Wald. Gory, der Energieschmied
+der Tempozen erschuf Deek damals als Testlauf für Energiebetrieben Mech's.
+Gory kümmert sich ansonsten um die Ableitbegleiter der Bewohner.
+Bei Cyli angekommen bewirft Sie einen erstmal mit vielen Informationen... Unwichtig eigentlich.
+Zurück in der Stadt geht man zu Gory, da Cyli Ihm etwas geben muss, damit Begleiter stärker werden.
+Ihre Forschung fließt in die Technik von Gory ein und so wurden sogenannte Fähigkeiten der
+Begleiter freigeschaltet. Deek trifft in die Stadt ein und spürte dein Taktmodul. Er
+fordert dich zu einem Tanzduell heraus. Als er verliert, war er so wütend, dass er versucht
+den Zenkern zu zerstören. Die Wachen wussten nicht, was Sie machen sollten, da Deek
+zu stark war. Der Anführer und sein Sohn versuchten den Kern aufrecht zu erhalten, das ist
+auch der einzige Moment, wo man die beiden Anführer der Tempozen zu Gesicht bekommt.
+Deek verwandelt sich in eine äußerst starke Form, woraufhin er immer weiter versucht, 
+die Energie weiter aus dem Kern zu reißen. Der Spieler kämpft gegen Deek, aber bevor man
+gewinnt, macht Deek einen ultimativen Schlag und verletzt den Spieler schwer.
+In dem Moment kommt Ensec aus dem Nichts und schlägt Deek zu Boden mit den Worten:
+"Niemand verrichtet meine Arbeit". Mit einem Fingerschnippen schaltet er Deek aus, als
+wäre er kein Gegner. Ensec ließ den Zenkern explodieren, um ans Zenmodul zu kommen, doch bevor
+es dazu kommt, springt Cyli vor Ensec und versucht mit Ihrem Forscherbegleiterbot ihn zurück zu drängen,
+jedoch schlug dies fehl und Ensec tötet Cyli auf der Stelle. Da die beiden Anführer damit beschäftigt waren, 
+die Energieverluste zu kontrollieren, damit niemand verletzt wird, musste jemand anderes Ensec aufhalten, der
+von vornerein darauf aus war, das Modul an sich zu reißen. Ein epischer Kampf gegen Ensec erfolgt.

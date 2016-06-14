@@ -1,1 +1,0 @@
-Es gibt eine Overworld Map auf der man die Level auswählt. Es gibt keine “Underworld” Map, sondern nur den Battle Screen.
