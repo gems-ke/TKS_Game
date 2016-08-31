@@ -8,6 +8,3 @@
 - Info-NPCs
 	(NPCs, die über die Welt Infos geben)
 	(NPCs, die unnützes Zeugs erzählen)
-
-- Cutscene-NPCS
-	(Standart halt)

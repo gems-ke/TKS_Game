@@ -2,7 +2,7 @@ Es gibt feste Kombos, die man drücken kann
 
 Diese neuen Kombos werden durch Skillen freigeschalten
 
-Default Tasten: Pfeiltasten
+Default Tasten: Pfeiltasten/Buchstaben
 
 Gegner greift an, sobald seine Kugelanzeige gefüllt ist
 (diese füllt sich pro Beat auf)

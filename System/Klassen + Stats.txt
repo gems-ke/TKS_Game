@@ -1,11 +1,11 @@
 Bio:
 Menschen
-Angriff
+Durchschnitt
 
 Mecha:
 Roboter
-Verteidigung
+Leben > Angriff
 
 Alien:
 Aliens
-Leben
+Angriff > Leben

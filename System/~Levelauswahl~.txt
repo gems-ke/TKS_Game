@@ -1,0 +1,13 @@
+Infotext: 
+Levelname
+Levelart
+Infotext/Beschreibung
+Drops (Kampf)
+Start
+
+
+
+
+
+
+Level kann man mehrfach besuchen
