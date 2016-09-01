@@ -1,0 +1,25 @@
+Du bist echt am nerven! Ich hole jetzt meinen großen Bruder!
+
+SHake Shake Shake
+
+Gesicht kommt von rechts mit 3 weiteren shakes
+
+dann fliegt er hoch und der rest des körpers kommt zum vorschein nach großem shake!
+
+kurz animiert und dann beginnt der kampf
+
+
+
+trigger: 33.5 -4.76 scale y 7.84
+
+head: scale 2x2
+44 -7.3
+
+44 -> 42,15 -> 41 -> 40 [x]
+danach [y] von -7,3-> langsam zu -3,61
+anzeigen der anderen teile an der selben position [40, -3,61] nach SHAKING und dann ANIMIEREN teil für teil
+
+SCALE ÄNDERN AUF 1
+
+
+WHITER FLASH 1000 x 1000 Z = -8 ALPHA 155
