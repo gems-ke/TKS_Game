@@ -1,0 +1,8 @@
+Biological | Human:
+Balanced
+
+Mechanic | Robot:
+Health Points > Attack Points
+
+Extraterrestrials | Alien:
+Health Points < Attack Points

@@ -1,4 +1,4 @@
-- NPCs, mit denen man handeln kann
+- Merchant
 	(Schwarzhändler -> Chips gegen DNA tauschen und vice versa)
 	(Temporärboni)
 	(Skillpunkte zurücksetzen)

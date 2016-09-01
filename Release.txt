@@ -1,22 +1,23 @@
+New Version:  undefined
+Actual Version: 0.1.0 alpha_build
 
-Aktueller Downloadlink ---> Kommt
-Neueste Version: 0.0.15a 
+Demo Download: https://mega.nz/#!XdxkjKTZ!SxoRJh1uWftGsLdxMJJuN42sEyjf4Lay3GwvHzpyT9U
 
 
-<----- Patchnotes ----->
-#### Version 0.0.15a | 22.02.2016 ####
+<------------ Patchnotes ------------->
+
+Version 0.0.15a | 22.02.2016
 -new icon in main menu
 -new scene: overview menu 
 -dynamic textboxes for each level
 -choose a level and play the fight scene (still alpha)
 -this version is without the exploration alpha scene
 
-#### Version 0.0.13a | 08.02.2016 ####
+<----- ----- ----- ----- ----- ----- ----- ----->
+
+Version 0.0.13a | 08.02.2016
 - first ui version w/ options and start button
 - only test mode for start => 120 bpm default 
-<----- ----- ----- ----->
 
+<----- ----- ----- ----- ----- ----- ----- ----->
 
----> Könnten später für das DevTeam sein:
----> https://twitter.com/RORA_Kevin
----> https://about.me/kevingems

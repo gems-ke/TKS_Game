@@ -1,17 +1,15 @@
-Kosten für Baum leveln: Entweder jedes mal 1 oder jedes Mal 1 mehr nach jedem Skillen.
-
-Anzahl der Skills, die man skillen kann: Man kriegt nicht genug Skillpoints um alle Skills voll zu leveln.
+You need 1 DNA-Point to level up a skill.
 
 Skillbildschirm ist dem bei WOW ähnlich
 (man hat alle drei Skillbäume nebeneinander)
 
-Man hat andere Titel, je nachdem, was man skillt:
-Tim's Vorschläge:
+Titles:
+
 -Alien                Martian 
 -bio                  Earthling
 -mech                 EVA
 -Alien/bio            New Race of Children
 -Alien/mech           Space-Cyborg
 -bio/mech             Genos
--nichts               Lamo
+-nothing (old)        Lamo
 -hybride              Chimera

@@ -1,26 +1,10 @@
-Exploration
-
 Metroidvania
 
-Aufzufindendes: 
-DNA (Charakterupgrade)
-Chips (Companionupgrades)
-Kisten mit Ausrüstung
+Exploration Loot: 
+DNA-Points (Skill your talents)
+Particles (Currency)
 NPCs
 
-Zufällige Chance bestimmte NPCs zu treffen (die sind unabhängig voneinander), die einem Helfen und in seine Stadt ziehen 
-(z.B. Schmied) (möglicherweise Chance erhöhen je weiter man kommt oder je höher die Stats sind)
-Oder
-Man muss eine Voraussetzung erfüllen (Quest)
-
-
-
 Technik-Zeugs:
-- Man kann 1 Mal springen (Später bis zu 3 Mal)
-- Wandsprung schon am Anfang möglich
-(- Sprunghöhe variabel)
-
-
-
-Der Anzug hat Energie (mit einem coolen Namen), die einen immer an den Anfang des Levels/Checkpoint zurückbringt,
-wenn man runterfällt/in Stacheln springt. Diese hat aber nur 2 Aufladungen.
+- You can jump 1 time (Later 3 times)
+- walljump enabled

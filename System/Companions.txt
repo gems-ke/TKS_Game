@@ -1,5 +1,3 @@
 3 Companions
 
-Jeder Companion gibt andere Boni
-
-Man kann Runen in sie einfassen, die neue Boni geben
+Every companion with unique bonus stats

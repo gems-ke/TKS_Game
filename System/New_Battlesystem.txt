@@ -1,0 +1,18 @@
+
+Damage
+- Basic Damage
+- Elemental Damage (A,B,M)
+
+Skills
+- Active
+- Passive
+
+Critial Hits
+
+Companions:
+- Passives
+- Ultimatives
+
+Health
+
+Status changes
