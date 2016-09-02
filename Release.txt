@@ -6,6 +6,9 @@ Demo Download: https://mega.nz/#!XdxkjKTZ!SxoRJh1uWftGsLdxMJJuN42sEyjf4Lay3GwvHz
 
 <------------ Patchnotes ------------->
 
+Version 0.0.16a | 02.09.2016
+-bugfixing on the road
+
 Version 0.0.15a | 22.02.2016
 -new icon in main menu
 -new scene: overview menu 
