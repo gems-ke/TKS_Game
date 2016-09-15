@@ -15,46 +15,49 @@ Es wurde durch unseren naiven Wunsch ein Monster erschaffen und es droht uns zu 
 Dies würde zu einem weiteren Krieg und eventuell zur kompletten Vernichtung der Erde führen.
 Ich gehe aber davon aus, dass du es schaffen kannst.
 Du bist ganz schön schweigsam... 
-Nun folge mir, ich zeige dir die Technologiepunkte.
-
-(Professor läuft zum DNS)
-
--DNS DIALOG
-Hier siehst du die sogenannten Technologiepunkte.
-Sie dienen dem Leveln deiner Fähigkeiten und bestimmen den Grad deines Wachstums. 
-Drücke die Taste 'T' um zum Technologiebaum zu gelangen und um neue Fähigkeiten zu erlernen.
+Nun folge mir, mein Testdummy wird deine Kampffähigkeiten nun auf die Probestellen.
 
 (Professor läuft zum Kampfraum)
-
--VOR DEM KAMPF DIALOG
-Man unterteilt Fähigkeiten grundsätzlich in Erkundungs- und Kampffähigkeiten.
-Momentan befindest du dich in einer Erkundung, in der du dich frei bewegen kannst.
-Nun wollen wir auch dein Talent für das Kämpfen entdecken.
-Mein Testdummy wird dich nun auf die Probe stellen.
 
 (Kampfbeginn)
 
 -KAMPF DIALOG
-Jeder Kampf läuft auf TRS-Rythmusbasis. 
-Zum Takt wird dir eine Frequenz angezeigt, zu der du dann deinen Angriff ausführen musst.
-Verfehlst du diesen Takt, machst du keinen Schaden, sondern verlierst Leben.
-Triffst du aber genau auf den jeweiligen Takt, machst du zusätzlichen Schaden.
-Kombofähigkeiten lernst du über den Technologiebaum.
-Deine Gegner besitzen eine Angriffsleiste, die sich pro Takt selbständig füllt.
-Ist der Angriffsbalken deines Gegners voll, schlägt er zu.
+Hier, ich möchte dir vorher das hier geben.
 
-(Kampf verloren)
+(übergibt TRS-Modul)
 
-Du bist leider noch nicht stark genug, aber mit dem TRS-Modul, hast du eine gute Chance.
+Das ist das TRS-Waffenmodul. Mit diesem kannst du auch aus der Ferne angreifen. Nun möchte ich dir erklären, wie man kämpft.
+Jeder Kampf läuft auf TRS-Rythmusbasis.
+Du musst im Rhythmus mit deiner Waffe zuschlagen.
+Schlägst du zu früh oder zu spät zu, machst du nur Grundschaden.
+Triffst du aber genau auf den jeweiligen Beat, machst du zusätzlichen Schaden. Wenn du mehrmals hintereinander triffst, wechselst du in den FEVER-Modus und kannst so massiven Schaden anrichten. 
+Außerdem kannst du sowohl aus nächster Nähe, als auch aus der Ferne angreifen. Benutze "Linksklick" um aus der Nähe anzugreifen und "Rechtsklick" um aus der Ferne anzugreifen.
+Du darfst nun alles in Ruhe ausprobieren. Sprich mich wieder an, wenn du fertig bist.
+
+Bist du bereit, um weiterzumachen?
+-Ja/Nein
+
+Dann erkläre ich dir nun die DNS. Folge mir.
+
+(Professor läuft zum DNS)
+
+-DNS DIALOG
+Hier siehst du die sogenannten DNS.
+Sie dienen dem Leveln deiner Fähigkeiten und bestimmen den Grad deines Wachstums. 
+Drücke die Taste 'T' um zum Technologiebaum zu gelangen und um neue Fähigkeiten zu erlernen.
+
+(Technologiebaum)
+
+Hier kannst du über die verschiedenen Bäume deine Stärken erweitern. Zum einen kannt du deinen Rhytmus verbessern. Das erweitert deinen zeitlichen Toleranzbereich für deine Angriffe und du kannst leichter im Rhythmus angreifen. Außerdem kannst du auch deinen Beat leveln, der dir deinem TRS-Waffenmodul mehr Stärke verleiht und deine Fernkampfangriffe so stärker macht.
 
 (Erkundungsszene)
 
--WAFFEN DIALOG
-Mit diesem TRS-Waffenmodul wirst du den Hybriden besiegen können, da bin ich mir ganz sicher.
+-Abschied
+Bevor du gehst, muss ich dir noch etwas zum TRS-Waffenmodul sagen. Es ist wahrscheinlich die einzige Waffe, die den Hybriden besiegen kann.
 Das Modul benötigt allerdings noch einige Upgrades, um vollkommen zu sein.
 Im tiefen Wald wirst du das erste Upgrade finden können. 
-Dort befindet sich ein zerstörtes Dorf inmitten der wäldlichen Sümpfe.
-Verbessere deine Waffe und deine Fähigkeiten um die Erde vor den Hybriden zu schützen!
+Dort befindet sich ein zerstörtes Dorf inmitten der wäldlichen Sümpfe, wo einer meiner Kollegen, die an der TRS-Technik geforscht haben, lebt.
+Verbessere deine Waffe und deine Fähigkeiten um die Erde vor dem Hybriden zu schützen! Und nun geh. Viel Glück auf deiner Reise!
 
 (Portal Use)
 

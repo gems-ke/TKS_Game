@@ -1,18 +1,13 @@
+The character can move freely, there are no scene changes.
 
-Damage
-- Basic Damage
-- Elemental Damage (A,B,M)
+The battle is action based (there are no "rounds" etc.)
 
-Skills
-- Active
-- Passive
+You can engage in close range battles with your normal weapon and you can attack from afar with the TRS-Weapon-Module.
 
-Critial Hits
+You have to hit on beat to the music to deal full damage.
 
-Companions:
-- Passives
-- Ultimatives
+You won't get penalized if you don't attack on beat.
 
-Health
+If you hit the enemy on beat several times, you enter Fever mode and deal even more damage.
 
-Status changes
+You have 3 lives at the beginning and gain more by defeating bosses/minibosses

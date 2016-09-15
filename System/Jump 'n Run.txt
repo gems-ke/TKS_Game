@@ -2,7 +2,7 @@ Metroidvania
 
 Exploration Loot: 
 DNA-Points (Skill your talents)
-Particles (Currency)
+Weapons, Armour
 NPCs
 
 Technik-Zeugs:

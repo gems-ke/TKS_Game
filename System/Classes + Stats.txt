@@ -1,3 +1,19 @@
+HP (3 leben), angriff, def, Rhythmus (Toleranz) und beat (Ranged Attack Strength)
+
+HP = 3 lives
+Attack = Weapon
+Defense = Armor
+Rhytmus = DNS
+Beat = DNS
+
+
+
+
+
+
+
+_________________________________________________________
+
 Biological | Human:
 Balanced
 
